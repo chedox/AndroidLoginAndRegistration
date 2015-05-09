@@ -1,4 +1,3 @@
 # AndroidLoginAndRegistration
-Android Login And Registration Using Gradle
+Android Login And Registration With Gradle and Android Studio IDE
 
-This Project Using Android Studio
