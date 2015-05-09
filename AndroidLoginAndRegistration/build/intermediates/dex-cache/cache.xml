@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Projectandroid\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="D:\Projectandroid\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-f66c131a9137714fc9a919b523c91b522e4f2c70.jar" />
+    </item>
+    <item
+        jar="D:\Projectandroid\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="D:\Projectandroid\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-d1af4bc5a37ebcd253b5c1cde05046f36da79a8b.jar" />
+    </item>
+    <item
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.3.2\559b70ac8a0d5cad611da4223137a920147201ba\jackson-core-2.3.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="559b70ac8a0d5cad611da4223137a920147201ba">
+        <dex dex="D:\Projectandroid\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\jackson-core-2.3.2-9baea103b0dae21a3771d137ff7b52f880f852af.jar" />
+    </item>
+    <item
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\org.springframework.android\spring-android-core\1.0.1.RELEASE\e68f0e8e4b636ee30c4de58953be38d9b72a5e3b\spring-android-core-1.0.1.RELEASE.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e68f0e8e4b636ee30c4de58953be38d9b72a5e3b">
+        <dex dex="D:\Projectandroid\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\spring-android-core-1.0.1.RELEASE-f54ba33e0312c4d9e043256e8fc90b317f2b5981.jar" />
+    </item>
+    <item
+        jar="D:\Projectandroid\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="D:\Projectandroid\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-5a01ea39dd45abf6ecdb940643ed08b1867a12e8.jar" />
+    </item>
+    <item
+        jar="D:\Projectandroid\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="D:\Projectandroid\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-1061085c6c6cd9bed560d0a550acdf0a4081a428.jar" />
+    </item>
+    <item
+        jar="D:\Projectandroid\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="D:\Projectandroid\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-d546a8c4511a4c73141783563843ca00d99446c2.jar" />
+    </item>
+    <item
+        jar="D:\Projectandroid\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="D:\Projectandroid\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-59c0e6c733d89092643d00ed20b35d275b023118.jar" />
+    </item>
+    <item
+        jar="D:\Projectandroid\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="D:\Projectandroid\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-264a61362d4beade823ab15f3ef82321a690b618.jar" />
+    </item>
+    <item
+        jar="D:\Projectandroid\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="D:\Projectandroid\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-74fb08614312b49d76890a0ab317a7b629b8865b.jar" />
+    </item>
+    <item
+        jar="D:\Projectandroid\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="D:\Projectandroid\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-f75fe482edeb2d7446e2d6b025e3d8e45291b5cd.jar" />
+    </item>
+    <item
+        jar="D:\Projectandroid\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="D:\Projectandroid\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-159303df3dc76d0991fa65bc953f7eabc64cbced.jar" />
+    </item>
+    <item
+        jar="D:\Projectandroid\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="D:\Projectandroid\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-3637d9812b20365030477edea970f6a41ba92ff7.jar" />
+    </item>
+    <item
+        jar="D:\Projectandroid\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="D:\Projectandroid\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-22886799cbb1558c2eec5770ab4d3a7a424a7715.jar" />
+    </item>
+    <item
+        jar="D:\Projectandroid\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="D:\Projectandroid\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-2ce0a9e8eea56f11619d7e381d8a86d9e4a6a199.jar" />
+    </item>
+    <item
+        jar="D:\Projectandroid\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="D:\Projectandroid\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-07f95dec43c8cc51b7e5ca8b45f8c4fd6ff7b7a6.jar" />
+    </item>
+    <item
+        jar="D:\Projectandroid\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="D:\Projectandroid\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-0f335082ba5cff30b59d2882d51760c2c722b6e1.jar" />
+    </item>
+    <item
+        jar="D:\Projectandroid\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="D:\Projectandroid\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-8fae4c810bd28d77863e14361fd8eee7ebea45bb.jar" />
+    </item>
+    <item
+        jar="D:\Projectandroid\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="D:\Projectandroid\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-4aed107ea8f6933c80da2d3fc5ede95656ed3485.jar" />
+    </item>
+    <item
+        jar="D:\Projectandroid\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="D:\Projectandroid\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-a77e4becc231591e09d2dfb61d1c04aff9a6ebfe.jar" />
+    </item>
+    <item
+        jar="D:\Projectandroid\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="D:\Projectandroid\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-2f2b29991fb5c6fcf3f4b1ce48a8190932761ff5.jar" />
+    </item>
+    <item
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.3.0\f5e853a20b60758922453d56f9ae1e64af5cb3da\jackson-annotations-2.3.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f5e853a20b60758922453d56f9ae1e64af5cb3da">
+        <dex dex="D:\Projectandroid\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\jackson-annotations-2.3.0-249f7ece5bdd6261fb4729b7a0081a1a134a80ee.jar" />
+    </item>
+    <item
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.3.2\c75edc740a6d8cb1cef6fa82fa594e0bce561916\jackson-databind-2.3.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c75edc740a6d8cb1cef6fa82fa594e0bce561916">
+        <dex dex="D:\Projectandroid\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\jackson-databind-2.3.2-94b28073fca09990631c4e9f91a85c8c84a59937.jar" />
+    </item>
+    <item
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\org.springframework.android\spring-android-rest-template\1.0.1.RELEASE\e132d929bd181941f79b0d63edafb8a86ae6fd33\spring-android-rest-template-1.0.1.RELEASE.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e132d929bd181941f79b0d63edafb8a86ae6fd33">
+        <dex dex="D:\Projectandroid\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\spring-android-rest-template-1.0.1.RELEASE-b84fa5ea6b9d6746e0de71611fd57ad7aa0d6c63.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioSDK\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="D:\Projectandroid\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-d017943e1b1dd6ece10288a47ce8268d9424ee2e.jar" />
+    </item>
+    <item
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.6\b2e6988baeea1aed656995f973aaa2fc3feaf447\library-1.0.6.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b2e6988baeea1aed656995f973aaa2fc3feaf447">
+        <dex dex="D:\Projectandroid\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\library-1.0.6-056160e043c9688fb0f97e136252d5b92403de0a.jar" />
+    </item>
+    <item
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.4\3bae85a076241828810bf8fbcc12e5891d5fc34c\android-async-http-1.4.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3bae85a076241828810bf8fbcc12e5891d5fc34c">
+        <dex dex="D:\Projectandroid\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.4-d407b641599484abcc8f6b9d172a19a183a1e101.jar" />
+    </item>
+    <item
+        jar="D:\Projectandroid\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="D:\Projectandroid\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-ffcc9cac63aafcb6042c2837c2378a347da89068.jar" />
+    </item>
+    <item
+        jar="D:\Projectandroid\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="D:\Projectandroid\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes-41af09400bdfaaee32b01a35498290c7354a0d23.jar" />
+    </item>
+    <item
+        jar="D:\Projectandroid\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="D:\Projectandroid\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-a61794cb0865562a2d9ea0586f33b3f17da1b9c0.jar" />
+    </item>
+
+</items>
